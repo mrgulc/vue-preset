@@ -12,7 +12,8 @@
   },
   "configs": {
     "vue": {
-      "baseUrl": "/"
+      "publicPath": "./",
+      "outputDir": "dist"
     }
   }
 }
