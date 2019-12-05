@@ -9,5 +9,10 @@
     },
     "@vue/cli-plugin-router": {},
     "@vue/cli-plugin-vuex": {}
+  },
+  "configs": {
+    "vue": {
+      "baseUrl": "/"
+    }
   }
 }
