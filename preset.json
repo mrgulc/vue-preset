@@ -7,8 +7,6 @@
       "config": "airbnb",
       "lintOn": ["save", "commit"]
     },
-    "@vue/cli-plugin-router": {},
-    "@vue/cli-plugin-vuex": {},
     "@hsja/vue-cli-plugin-test": {}
   },
   "configs": {
