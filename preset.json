@@ -3,10 +3,7 @@
   "cssPreprocessor": "sass",
   "plugins": {
     "@vue/cli-plugin-babel": {},
-    "@vue/cli-plugin-eslint": {
-      "config": "airbnb",
-      "lintOn": ["save", "commit"]
-    },
+    "@vue/cli-plugin-eslint": {},
     "@hsja/vue-cli-plugin-test": {}
   },
   "configs": {
